@@ -1,0 +1,1 @@
+These projects illustrate uses of Kafka
